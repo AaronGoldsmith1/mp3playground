@@ -8,7 +8,11 @@
 
 ###Because of its simplicity, Winamp was also best used with smaller catalogues, as opposed to larger, more comprehensive collections.
 
-###I would like this project to be an opportunity to learn to work with hosting files while working with MongoDB.
+###Winamp also incorporated features such as music visualization which greatly enhanced the listening experience.  I would like to try to recreate this feature using D3.js.
+
+![Winamp](images/spectrum.jpg)
+
+###I would like this project to be an opportunity to gain experience with the MEAN stack, and learn to work with hosting files while using MongoDB.
 
 
 ##Technologies Used
@@ -27,8 +31,5 @@
 
 
 ##Project Planning
-###[Trello Board](https://trello.com/b/qyHHHWQn/mp3-playground)
-###Wireframes
-
-###ERD
+###[Trello Board / Wireframes / ERD](https://trello.com/b/qyHHHWQn/mp3-playground)
 
