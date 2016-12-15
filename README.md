@@ -33,3 +33,5 @@
 ##Project Planning
 ###[Trello Board / Wireframes / ERD](https://trello.com/b/qyHHHWQn/mp3-playground)
 
+###API: [http://mp3playground-api.herokuapp.com/](http://mp3playground-api.herokuapp.com/)
+
