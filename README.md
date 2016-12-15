@@ -35,3 +35,26 @@
 
 ###API: [http://mp3playground-api.herokuapp.com/](http://mp3playground-api.herokuapp.com/)
 
+##Unsolved Problems
+* Parsing music file metadata
+* Rendering playlist and media player controlls
+* Basic site routing
+* Login Redirect
+* Visually pleasing user interface
+
+##Installation Instructions
+###Back-End
+
+1. Go to https://github.com/AaronGoldsmith1/mp3playgroundserver. 
+2. Download the repo. 
+3. npm install. 
+4. Run mongod. 
+5. Run nodemon. 
+
+###Front-End
+
+1.  Go to https://github.com/AaronGoldsmith1/mp3playgroundclient. 
+2.	Download the repo. 
+3. Run http-server in the terminal. 
+4. Change all router endpoints to point to https://localhost:3000. 
+5. Navigate to https://localhost:8080 and enjoy!
