@@ -24,8 +24,9 @@ User authorization proved to be problematic during the development process when 
 * <a href="http://expressjs.com/">Express</a>
 * <a href="https://docs.angularjs.org/guide">Angular</a> 
 * <a href="http://nodejs.org/api/">Node</a> | <a href="https://www.npmjs.com/">npm</a> 
-* <a href="https://aws.amazon.com/s3">Amazon S3</a> - file hosting
-* <a href="http://wavesurfer-js.org">Wavesurfer.js</a> - audio waveform vizualization
+* <a href="https://aws.amazon.com/s3">Amazon S3</a> - File hosting
+* <a href="http://wavesurfer-js.org">Wavesurfer.js</a> - Audio waveform vizualization
+* <a href="https://jwt.io/">JSON Web Tokens</a> - User authentication
 
 
 ##Project Planning
