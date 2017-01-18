@@ -31,6 +31,7 @@ This project was a great opportunity to gain experience working with the MEAN st
 ##Project Planning
 ###[Trello Board / Wireframes / ERD](https://trello.com/b/qyHHHWQn/mp3-playground)
 
+###Front-End: [https://aarongoldsmith1.github.io/mp3playgroundclient/](https://aarongoldsmith1.github.io/mp3playgroundclient/)
 ###API: [http://mp3playground-api.herokuapp.com/](http://mp3playground-api.herokuapp.com/)
 
 
