@@ -7,8 +7,7 @@
 ![Winamp](images/screen.jpg)
 
 
-###MP3 Playground allows you to upload music files to custom playlists from your computer and play them in the browser.
-
+###MP3 Playground allows you to upload music files to custom playlists from your computer and play them in the browser.  Song reccomendations are provided by the last.fm API. 
 
 
 ##Approach
