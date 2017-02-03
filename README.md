@@ -9,6 +9,12 @@
 
 ###MP3 Playground allows you to upload music files to custom playlists from your computer and play them in the browser.  Song reccomendations are provided by the last.fm API. 
 
+##To Import Music Files: 
+###
+* Select a song by clicking ![search](images/search.png)
+* To upload the music file, click ![upload](images/upload.png)
+*  The selected song should appear in the master songs list after a few seconds.
+
 
 ##Approach
 This project was a great opportunity to gain experience working with the MEAN stack.  I enjoyed working with Amazon Web Services and found their interface for working with S3 (Simple Storage Service) to host music files to be straightforward and intuitive.  The npm module 'musicmetadata' made working with music files much easier, as it automatically parsed the file information for song title, artist, and duration.  
